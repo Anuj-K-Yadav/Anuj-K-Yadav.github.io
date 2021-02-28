@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an Undergraduate student in the Department of Electrical Enginerring at Indian Institute of Technology Patna. I am primarily interested in Research in Theoretical Computer Science and Communications.\\
-My specific research Interests include:\\
+My specific research Interests include: 
 * Information and Coding Theory
 * Information-theoretic Security and Privacy
 * Cryptography
