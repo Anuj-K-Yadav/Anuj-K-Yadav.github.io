@@ -13,7 +13,7 @@ My specific research Interests include:\\
 * Information and Coding Theory
 * Information-theoretic Security and Privacy
 * Cryptography
-* Wireless Communications.
+* Wireless Communications\\
 I have been working under Prof. Amitalok Budkuley (IIT Kharagpur) on Information-theoretic security and cryptography for almost a year as of now. Currently, I am also working with Prof. Sudhan Majhi (IIT Patna) on OFDM systems.
 
 
