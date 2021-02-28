@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anuj Kumar Yadav"
+title                    : "Anuj Yadav"
 title_separator          : "-"
 name                     : &name "Anuj Kumar Yadav"
 description              : &description "Personal Blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anuj Kumar Yadav"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "Undergraduate at IIT Patna"
   location         : "Uttar Pradesh, India"
   employer         :
