@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Piyush Tiwary"
+title                    : "Anuj Kumar Yadav"
 title_separator          : "-"
-name                     : &name "Piyush Tiwary"
+name                     : &name "Anuj Kumar Yadav"
 description              : &description "Personal Blog"
-url                      : https://thebackpropogator.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anuj-k-yadav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thebackpropogator/thebackpropogator.github.io"
+repository               : "anuj-k-yadav/anuj-k-yadav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &backpropogator
+  username               : &anujyadav_07
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Piyush Tiwary"
+  name             : "Anuj Kumar Yadav"
   avatar           : "profile.png"
-  bio              : "B.Tech at IIT Patna"
-  location         : "Bihar, India"
+  bio              : "Undergraduate at IIT Patna"
+  location         : "Uttar Pradesh, India"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tUdHYloAAAAJ&hl=en"
