@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
     Studied the working of OFDM, multicarrier modulated system based on FFT/ IFFT processing, Cyclic prefix and
     zero padding and enables transmitting data at higher rates by overcoming Inter-symbol Interference.
     Working on the Estimation of Parameters such as Carrier frequency offset, Symbol Time offset, No. of subcarriers,
-    Oversampling factor and CP length for the given dataset of OFDM symbols using Deep learning
+    Oversampling factor and CP length for the given dataset of OFDM symbols using Deep learning.
 
 
 
